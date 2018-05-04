@@ -29,6 +29,6 @@ function sayHiToGrandma(string) {
   return("I love you, too.")
   
   else 
-  logShout("The better to eat you with, Granddaughter!")
+  console.log("The better to eat you with, GRANDDAUGHTER!!")
 }
 sayHiToGrandma(string)
