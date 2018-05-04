@@ -1,4 +1,4 @@
-var string 
+var string = Hello
 var love = ("I love you, Grandma.")
 var uppercase = ("HELLO")
 var lowercase = ("hello")
@@ -31,3 +31,4 @@ function sayHiToGrandma(string) {
   else 
   logShout("The better to eat you with, Granddaughter!")
 }
+sayHiToGrandma(string)
